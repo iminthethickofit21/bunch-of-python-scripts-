@@ -1,6 +1,7 @@
-# bunch-of-python-scripts-
-its literally just a bunch of python scripts
-im not responsible for any iliegal stuff done with this
-all of these were literally created by chat gpt
-skibdi toilet
+DISCLAIMER
+Do not use these scripts for anything iliegal.
+I am not responsible for anything done with this script.
+I strongly ask you to NOT actually try to use these on someone.
+Use it on a old laptop or something, not a actual persorn.
+
 
